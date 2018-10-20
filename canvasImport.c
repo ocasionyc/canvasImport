@@ -1,6 +1,10 @@
 
+<<<<<<< HEAD
 //
 //
+=======
+
+>>>>>>> New-Change
 
 /* Carlos  and Jim */
 
